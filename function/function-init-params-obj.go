@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// @see https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
+
 type Item struct {
 	NoOption   string
 	Parameter1 string
