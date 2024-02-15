@@ -1,8 +1,8 @@
 package main
 
 import (
+	"first/mathslice"
 	"fmt"
-	"github.com/figurecode/go-lessons/mathslice"
 )
 
 func main() {
